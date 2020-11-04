@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLNEA71CJ6JumuoeuENgPFSc3ykT81bj1HD7c61/Mv5rnK1I/rJkM6+fHwae8QGPuGg4KOGmJIB2uIH0Wqjc3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vrmpr\\OneDrive\\Documentos\\Projetos\\Treinamento\\WebApiEnterprise\\NerdStoreEnterprise\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vrmpr\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\vrmpr\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\vrmpr\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\vrmpr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\vrmpr\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\vrmpr\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\vrmpr\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

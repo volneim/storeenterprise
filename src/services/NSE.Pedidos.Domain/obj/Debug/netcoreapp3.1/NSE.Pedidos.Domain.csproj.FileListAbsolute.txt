@@ -1,0 +1,12 @@
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.deps.json
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csprojAssemblyReference.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.AssemblyInfo.cs
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.CopyComplete
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb

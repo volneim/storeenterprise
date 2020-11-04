@@ -1,0 +1,17 @@
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.deps.json
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.runtimeconfig.json
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.runtimeconfig.dev.json
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csprojAssemblyReference.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.AssemblyInfoInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.AssemblyInfo.cs
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.CopyComplete
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.genruntimeconfig.cache

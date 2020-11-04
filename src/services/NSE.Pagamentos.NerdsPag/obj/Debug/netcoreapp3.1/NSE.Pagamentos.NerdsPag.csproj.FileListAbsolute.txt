@@ -1,0 +1,9 @@
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.deps.json
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csprojAssemblyReference.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfoInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfo.cs
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.CoreCompileInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb

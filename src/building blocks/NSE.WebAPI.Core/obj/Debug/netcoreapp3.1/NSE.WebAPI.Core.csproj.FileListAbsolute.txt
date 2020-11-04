@@ -1,0 +1,12 @@
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csprojAssemblyReference.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CopyComplete
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\vrmpr\OneDrive\Documentos\Projetos\Treinamento\WebApiEnterprise\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
